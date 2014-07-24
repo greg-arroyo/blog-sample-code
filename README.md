@@ -1,4 +1,3 @@
-BLOGSAMPLECODE
-==============
+### Arroyocode Blog Sample Code
 
-Sample code from blog posts.
+Individual .zip files of example code used in blog posts @ [arroyocode.com](http://arroyocode.com/ "Arroyocode Blog")
